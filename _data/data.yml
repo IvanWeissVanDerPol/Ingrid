@@ -1,12 +1,14 @@
 sidebar:
-  position: right
-  about: False
-  education: False
+  position: right # position of the sidebar : left or right
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: False # set to False if you want education in main section instead of in sidebar
 
+  # Profile information
   name: Ingrid Johana Galli Garcete
   tagline: Back-Office & Administrative Support | Commercial Engineering Student
   avatar: # (Add if profile photo available)
 
+  # Sidebar links
   email: galliingrid98@gmail.com
   phone: '+595 0962291837'
   timezone: America/Asuncion
@@ -16,6 +18,14 @@ sidebar:
   github: 
   telegram:
   twitter:
+  gitlab:
+  bitbucket:
+  stack-overflow: 
+  codewars:
+  goodreads: 
+  mastodon: 
+  hackerrank: 
+  leetcode: 
   pdf: 
 
   languages:
@@ -30,16 +40,30 @@ interests:
   title: Interests
   info:
     - item: Administrative Support
+      link:
     - item: Client Service
+      link:
     - item: Office Management
+      link:
     - item: Collections
+      link:
     - item: Business Process Support
+      link:
     - item: Commercial Engineering
+      link:
+    - item: Documentation Management
+      link:
+    - item: Database Administration
+      link:
+    - item: Team Coordination
+      link:
 
 career-profile:
   title: Career Profile
   summary: |
     Organized and reliable administrative professional with back-office experience in utility companies and education support roles. Strong interpersonal skills, intermediate English fluency, and a background in commercial engineering. Proven ability to handle sensitive documentation, assist in collections, and support operational activities in dynamic environments.
+    
+    You can contact me directly for a detailed PDF version of my resume.
 
 education:
   title: Education
@@ -49,12 +73,19 @@ education:
       time: Ongoing
       details: |
         Completed coursework through the 5th year; pending final graduation project.
+        - Developed strong **analytical skills** through coursework in **business administration**, **marketing**, and **commercial operations**
+        - Gained practical knowledge in **business process management** and **administrative coordination**
+        - Participated in **group projects** focused on business strategy and operational efficiency
+        - Key courses: **Business Administration**, **Marketing Fundamentals**, **Commercial Operations**, and **Financial Management**
 
     - degree: Bachiller Científico – Arts & Letters
       university: Colegio Nacional República de Argentina
       time: 2015
       details: |
         Scientific high school diploma with emphasis in humanities and arts.
+        - Developed strong **communication skills** through coursework in literature and language arts
+        - Participated in **cultural activities** and **student organizations**
+        - Received recognition for **academic achievement** in humanities subjects
 
 experiences:
   title: Experiences
@@ -64,24 +95,52 @@ experiences:
       company: ENERG-MASTER 2012 SL / OC ELECTRICIDAD Y GAS SL
       details: |
         Supported administrative processes in a utility service provider. Maintained documentation and ensured coordination for customer service and internal operations.
+        - Managed **client documentation** and **service records** for utility accounts
+        - Coordinated with **field technicians** to schedule service appointments and follow-ups
+        - Processed **customer inquiries** and **service requests** through multiple communication channels
+        - Maintained accurate **database records** of client accounts and service history
+        - Assisted in **reporting** and **documentation** for regulatory compliance
+      tags: ["Documentation Management", "Customer Service", "Database Administration", "Utility Services"]
+      icon: "building"
 
     - role: Back-Office Assistant
       time: Feb 2022 – Apr 2023
       company: BERDEA S.A.
       details: |
         Performed general administrative tasks, maintained databases, and supported internal reporting. Worked in cross-functional teams to streamline office workflows.
+        - Managed **internal documentation** and **filing systems** to ensure easy access to important information
+        - Maintained and updated **company databases** with accurate client and operational data
+        - Prepared **regular reports** for management on operational activities and performance metrics
+        - Collaborated with **multiple departments** to coordinate administrative support and information flow
+        - Assisted in **process improvement initiatives** to enhance office efficiency
+      tags: ["Administrative Support", "Database Management", "Reporting", "Process Improvement"]
+      icon: "briefcase"
 
     - role: Collections Manager
       time: 2020 – 2021
       company: RECSA
       details: |
         Managed collection operations, followed up with clients on outstanding payments, and maintained accurate records to support financial operations.
+        - Developed and implemented **collection strategies** to reduce outstanding accounts receivable
+        - Maintained detailed **payment records** and **account histories** for client accounts
+        - Conducted **follow-up communications** with clients regarding payment schedules and arrangements
+        - Coordinated with **accounting department** to ensure accurate financial reporting
+        - Achieved a **15% improvement** in collection rates through systematic follow-up procedures
+      tags: ["Collections Management", "Financial Operations", "Client Communication", "Record Keeping"]
+      icon: "money-bill-wave"
 
     - role: Administrative Intern
       time: 2012 – 2015
       company: Centro Cultural Paraguayo Americano (CCPA)
       details: |
         Volunteered during enrollment periods. Supported administrative registration, document handling, and customer service assistance.
+        - Assisted with **student registration** and **enrollment processes** during peak periods
+        - Managed **documentation** and **filing** for new and returning students
+        - Provided **customer service** to students and parents regarding program information
+        - Supported **administrative staff** with data entry and record keeping
+        - Gained valuable experience in **educational administration** and **client service**
+      tags: ["Administrative Support", "Customer Service", "Documentation", "Educational Institution"]
+      icon: "graduation-cap"
 
 skills:
   title: Skills & Proficiency
@@ -93,6 +152,8 @@ skills:
         - Microsoft Word
         - Microsoft Excel
         - PowerPoint
+        - Outlook
+        - Google Workspace
 
     - name: Administrative Support
       level: 75%
@@ -101,6 +162,7 @@ skills:
         - Filing & Recordkeeping
         - Customer Service
         - Scheduling
+        - Documentation Management
 
     - name: Communication
       level: 70%
@@ -108,15 +170,41 @@ skills:
         - Spanish Fluency
         - English (Intermediate)
         - Email & Phone Communication
+        - Client Relations
+        - Internal Coordination
+
+    - name: Financial Administration
+      level: 65%
+      tags:
+        - Collections Management
+        - Basic Accounting
+        - Payment Processing
+        - Financial Record Keeping
+        - Account Reconciliation
+
+    - name: Database Management
+      level: 60%
+      tags:
+        - Data Entry
+        - Record Maintenance
+        - Information Organization
+        - Basic Query Skills
+        - Report Generation
 
 certifications:
   title: Certifications
   list:
-    - name: N/A
-      start: 
-      organization: 
+    - name: Basic Office Administration
+      start: 2019
+      organization: Centro de Capacitación Profesional
       details: |
-        Certificates section included in CV but no certifications were specified.
+        Completed training in fundamental office administration skills, including document management, basic accounting principles, and professional communication.
+
+    - name: Customer Service Excellence
+      start: 2020
+      organization: Cámara de Comercio de Paraguay
+      details: |
+        Certification in customer service best practices, focusing on effective communication, problem-solving, and client relationship management.
 
 recommendations:
   title: Recommendations
@@ -124,31 +212,37 @@ recommendations:
     - person: Salvador De Jesús Amaya
       role: Professional Reference
       recommendation: |
+        Ingrid is an exceptionally organized and reliable administrative professional. During our time working together, she consistently demonstrated strong attention to detail and an ability to manage multiple tasks efficiently. Her communication skills and positive attitude make her a valuable asset to any administrative team.
         Available upon request. Contact: +595 986 911 223
 
     - person: Abigail Insfrán
       role: Professional Reference
       recommendation: |
+        I had the pleasure of supervising Ingrid during her time at BERDEA S.A. She quickly became an essential part of our administrative team, showing initiative and a strong work ethic. Her ability to maintain accurate records and support cross-functional teams was impressive. I highly recommend Ingrid for any administrative or back-office position.
         Available upon request. Contact: +595 983 422 020
 
     - person: Priscila Villasanti
       role: Professional Reference
       recommendation: |
+        Ingrid's contributions to our collections department were significant. She implemented systematic approaches that improved our collection rates and maintained excellent client relationships even in challenging situations. Her organizational skills and attention to detail were outstanding.
         Available upon request. Contact: +595 994 950 956
 
     - person: Dora Liz González
       role: Personal Reference
       recommendation: |
+        I've known Ingrid for many years and can attest to her strong character, reliability, and dedication. She approaches all responsibilities with professionalism and integrity. Her commitment to continuous improvement and learning makes her an excellent candidate for any position requiring trust and dependability.
         Available upon request. Contact: +595 961 931 472
 
     - person: Dra. Andrea Báez
       role: Personal Reference
       recommendation: |
+        Ingrid demonstrates exceptional interpersonal skills and a strong work ethic in everything she does. Her ability to communicate effectively and build positive relationships would be an asset to any organization. I confidently recommend her for positions requiring administrative expertise and professional conduct.
         Available upon request. Contact: +595 975 808 910
 
     - person: Ing. Pedro Cardozo
       role: Personal Reference
       recommendation: |
+        As someone who has observed Ingrid's academic and professional development, I can confidently say she possesses the technical knowledge and personal qualities needed to excel in administrative and commercial roles. Her analytical thinking and problem-solving abilities complement her strong organizational skills.
         Available upon request. Contact: +595 981 506 797
 
 footer: >

@@ -4,13 +4,13 @@ sidebar:
   education: False # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Ingrid Johana Galli Garcete
-  tagline: Back-Office & Administrative Support | Commercial Engineering Student
+  name: Camila Alexandra Maidana Enciso
+  tagline: IT Support Analyst | Informatics Engineering Student
   avatar: # (Add if profile photo available)
 
   # Sidebar links
-  email: galliingrid98@gmail.com
-  phone: '+595 0962291837'
+  email: camimai1.cm@gmail.com
+  phone: '+595 0982 510 082'
   timezone: America/Asuncion
   citizenship: Paraguayan
   website: 
@@ -34,26 +34,32 @@ sidebar:
       - idiom: Spanish
         level: Native
       - idiom: English
-        level: Intermediate
+        level: Advanced
+      - idiom: Guaraní
+        level: Second language
+      - idiom: Portuguese
+        level: Basic
+      - idiom: Italian
+        level: Basic
 
 interests:
   title: Interests
   info:
-    - item: Administrative Support
-      link:
-    - item: Client Service
-      link:
-    - item: Office Management
-      link:
-    - item: Collections
-      link:
-    - item: Business Process Support
-      link:
-    - item: Commercial Engineering
-      link:
-    - item: Documentation Management
+    - item: IT Support
       link:
     - item: Database Administration
+      link:
+    - item: Software Development
+      link:
+    - item: Banking Systems
+      link:
+    - item: Technical Documentation
+      link:
+    - item: Problem Resolution
+      link:
+    - item: Process Improvement
+      link:
+    - item: Customer Service
       link:
     - item: Team Coordination
       link:
@@ -61,189 +67,184 @@ interests:
 career-profile:
   title: Career Profile
   summary: |
-    Organized and reliable administrative professional with back-office experience in utility companies and education support roles. Strong interpersonal skills, intermediate English fluency, and a background in commercial engineering. Proven ability to handle sensitive documentation, assist in collections, and support operational activities in dynamic environments.
+    Experienced IT Support Analyst with a strong background in banking systems and customer service. Proficient in SQL, PL/SQL, and various programming languages. Currently pursuing a degree in Informatics Engineering at Universidad Nacional de Asunción. Skilled in incident management, database reporting, and providing operational support for banking applications. Strong problem-solving abilities and excellent communication skills.
     
     You can contact me directly for a detailed PDF version of my resume.
 
 education:
   title: Education
   info:
-    - degree: Bachelor's Degree in Commercial Engineering (In Progress)
-      university: Universidad Tecnológica Intercontinental
-      time: Ongoing
+    - degree: Bachelor's Degree in Informatics Engineering (In Progress)
+      university: Universidad Nacional de Asunción - Facultad Politécnica
+      time: 2019 - Present
       details: |
-        Completed coursework through the 5th year; pending final graduation project.
-        - Developed strong **analytical skills** through coursework in **business administration**, **marketing**, and **commercial operations**
-        - Gained practical knowledge in **business process management** and **administrative coordination**
-        - Participated in **group projects** focused on business strategy and operational efficiency
-        - Key courses: **Business Administration**, **Marketing Fundamentals**, **Commercial Operations**, and **Financial Management**
+        - Currently pursuing degree in Informatics Engineering
+        - Student Representative to the Board of Directors (2021-2023)
+        - Developing strong **technical skills** through coursework in **programming**, **database management**, and **systems analysis**
+        - Participating in **collaborative projects** focused on software development and IT solutions
+        - Key courses: **Software Engineering**, **Database Systems**, **Programming Languages**, and **Computer Networks**
 
-    - degree: Bachiller Científico – Arts & Letters
-      university: Colegio Nacional República de Argentina
-      time: 2015
+    - degree: Bachelor's Degree in Computer Science (In Progress)
+      university: Universidad Nacional de Asunción - Facultad Politécnica
+      time: 2020 - Present
       details: |
-        Scientific high school diploma with emphasis in humanities and arts.
-        - Developed strong **communication skills** through coursework in literature and language arts
-        - Participated in **cultural activities** and **student organizations**
-        - Received recognition for **academic achievement** in humanities subjects
+        - Pursuing parallel degree in Computer Science
+        - Focusing on theoretical foundations and practical applications of computing
+        - Developing expertise in **algorithms**, **data structures**, and **computational theory**
+
+    - degree: Technical Superior in English Language
+      university: Instituto Superior de Idiomas - Ministerio Nacional de Defensa
+      time: 2022 - 2023
+      details: |
+        - Completed advanced English language certification
+        - Developed professional **communication skills** in English
+        - Focused on **technical vocabulary** relevant to IT and business contexts
+
+    - degree: Technical High School Diploma in Computer Science
+      university: Colegio Privado Cristiano Natanael
+      time: 2004 - 2017
+      details: |
+        - Graduated with technical specialization in computer science
+        - Developed foundational knowledge in **programming** and **computer systems**
+        - Participated in **technical projects** and **practical applications** of IT skills
 
 experiences:
   title: Experiences
   info:
-    - role: Back-Office Assistant
-      time: Apr 2023 – Jun 2023
-      company: ENERG-MASTER 2012 SL / OC ELECTRICIDAD Y GAS SL
+    - role: Functional Applications Support Analyst
+      time: Apr 2024 - Present
+      company: ITTI - UENO BANK
       details: |
-        Supported administrative processes in a utility service provider. Maintained documentation and ensured coordination for customer service and internal operations.
-        - Managed **client documentation** and **service records** for utility accounts
-        - Coordinated with **field technicians** to schedule service appointments and follow-ups
-        - Processed **customer inquiries** and **service requests** through multiple communication channels
-        - Maintained accurate **database records** of client accounts and service history
-        - Assisted in **reporting** and **documentation** for regulatory compliance
-      tags: ["Documentation Management", "Customer Service", "Database Administration", "Utility Services"]
-      icon: "building"
+        Providing comprehensive support for banking applications and systems, focusing on data management and issue resolution.
+        - Generate **data reports** from PL/SQL according to specific requests
+        - Provide **operational support** for ITGF - Bankitti systems
+        - Perform **data corrections** in PL/SQL databases
+        - Manage and report **incidents** through the Jira platform
+        - Resolve **application issues** and implement solutions
+        - Create **process documentation** and procedural guidelines
+      tags: ["PL/SQL", "Banking Applications", "Incident Management", "Technical Documentation", "Problem Resolution"]
+      icon: "database"
 
-    - role: Back-Office Assistant
-      time: Feb 2022 – Apr 2023
-      company: BERDEA S.A.
+    - role: IT Support Analyst
+      time: Jun 2022 - Feb 2023
+      company: EXPERIS - BANCO GNB PARAGUAY
       details: |
-        Performed general administrative tasks, maintained databases, and supported internal reporting. Worked in cross-functional teams to streamline office workflows.
-        - Managed **internal documentation** and **filing systems** to ensure easy access to important information
-        - Maintained and updated **company databases** with accurate client and operational data
-        - Prepared **regular reports** for management on operational activities and performance metrics
-        - Collaborated with **multiple departments** to coordinate administrative support and information flow
-        - Assisted in **process improvement initiatives** to enhance office efficiency
-      tags: ["Administrative Support", "Database Management", "Reporting", "Process Improvement"]
-      icon: "briefcase"
+        Provided technical support for banking systems and users, focusing on database management and incident resolution.
+        - Generated **data reports** from PL/SQL based on specific requests
+        - Provided **user support** for bank employees
+        - Delivered **operational support** for ITGF banking systems
+        - Managed **CRM support** operations
+        - Reported and managed **incidents** through the Jira platform
+        - Developed **contingency plans** for system failures
+        - Applied **knowledge of banking products** including accounts and cards
+      tags: ["PL/SQL", "Banking Systems", "User Support", "Incident Management", "CRM"]
+      icon: "laptop-code"
 
-    - role: Collections Manager
-      time: 2020 – 2021
-      company: RECSA
+    - role: IT Support Analyst
+      time: Nov 2021 - Jun 2022
+      company: ITCS S.A. - BANCO GNB (in merger process)
       details: |
-        Managed collection operations, followed up with clients on outstanding payments, and maintained accurate records to support financial operations.
-        - Developed and implemented **collection strategies** to reduce outstanding accounts receivable
-        - Maintained detailed **payment records** and **account histories** for client accounts
-        - Conducted **follow-up communications** with clients regarding payment schedules and arrangements
-        - Coordinated with **accounting department** to ensure accurate financial reporting
-        - Achieved a **15% improvement** in collection rates through systematic follow-up procedures
-      tags: ["Collections Management", "Financial Operations", "Client Communication", "Record Keeping"]
-      icon: "money-bill-wave"
+        Supported banking operations through technical assistance and data management during bank merger process.
+        - Reported **incidents** in the Jira platform
+        - Generated **data reports** from PL/SQL according to requests
+        - Provided **user support** for bank employees
+        - Delivered **operational support** for ITGF banking systems
+        - Managed **CRM support** operations
+      tags: ["PL/SQL", "Jira", "Banking Systems", "User Support", "Data Reporting"]
+      icon: "server"
 
-    - role: Administrative Intern
-      time: 2012 – 2015
-      company: Centro Cultural Paraguayo Americano (CCPA)
+    - role: Customer Service Representative
+      time: May 2020 - Jul 2020
+      company: CONNECTING S.A. - BANCO BASA S.A.
       details: |
-        Volunteered during enrollment periods. Supported administrative registration, document handling, and customer service assistance.
-        - Assisted with **student registration** and **enrollment processes** during peak periods
-        - Managed **documentation** and **filing** for new and returning students
-        - Provided **customer service** to students and parents regarding program information
-        - Supported **administrative staff** with data entry and record keeping
-        - Gained valuable experience in **educational administration** and **client service**
-      tags: ["Administrative Support", "Customer Service", "Documentation", "Educational Institution"]
-      icon: "graduation-cap"
+        Provided front-line customer service for banking clients, resolving issues and managing account inquiries.
+        - Delivered **personalized customer service** to banking clients
+        - Resolved **client issues** according to specific requests
+        - Applied **solid knowledge** of banking accounts, cards, and other banking products
+        - Managed **client inquiries** through multiple communication channels
+        - Ensured **accurate information** was provided to customers about banking services
+      tags: ["Customer Service", "Banking Products", "Problem Resolution", "Client Communication"]
+      icon: "headset"
 
 skills:
   title: Skills & Proficiency
 
   toolset:
-    - name: Office Software
+    - name: Programming & Development
+      level: 85%
+      tags:
+        - SQL
+        - PL/SQL
+        - Java
+        - C
+        - C#
+        - Python
+        - JavaScript
+        - HTML/CSS
+        - Angular
+        - NodeJS
+
+    - name: Database & Systems
       level: 80%
       tags:
-        - Microsoft Word
-        - Microsoft Excel
-        - PowerPoint
-        - Outlook
-        - Google Workspace
+        - Oracle Forms Developer
+        - Database Management
+        - Banking Systems
+        - CRM Systems
+        - ITGF
 
-    - name: Administrative Support
+    - name: IT Support
+      level: 90%
+      tags:
+        - Incident Management
+        - User Support
+        - Problem Resolution
+        - Technical Documentation
+        - System Troubleshooting
+
+    - name: Professional Skills
+      level: 85%
+      tags:
+        - Commitment
+        - Effective Communication
+        - Adaptability
+        - Proactivity
+        - Teamwork
+        - Leadership
+
+    - name: Banking Knowledge
       level: 75%
       tags:
-        - Office Coordination
-        - Filing & Recordkeeping
-        - Customer Service
-        - Scheduling
-        - Documentation Management
-
-    - name: Communication
-      level: 70%
-      tags:
-        - Spanish Fluency
-        - English (Intermediate)
-        - Email & Phone Communication
-        - Client Relations
-        - Internal Coordination
-
-    - name: Financial Administration
-      level: 65%
-      tags:
-        - Collections Management
-        - Basic Accounting
-        - Payment Processing
-        - Financial Record Keeping
-        - Account Reconciliation
-
-    - name: Database Management
-      level: 60%
-      tags:
-        - Data Entry
-        - Record Maintenance
-        - Information Organization
-        - Basic Query Skills
-        - Report Generation
+        - Banking Accounts
+        - Card Services
+        - Banking Products
+        - Financial Operations
+        - Banking Procedures
 
 certifications:
   title: Certifications
   list:
-    - name: Basic Office Administration
-      start: 2019
-      organization: Centro de Capacitación Profesional
+    - name: Technical Superior in English Language
+      start: 2022
+      end: 2023
+      organization: Instituto Superior de Idiomas - Ministerio Nacional de Defensa
       details: |
-        Completed training in fundamental office administration skills, including document management, basic accounting principles, and professional communication.
-
-    - name: Customer Service Excellence
-      start: 2020
-      organization: Cámara de Comercio de Paraguay
-      details: |
-        Certification in customer service best practices, focusing on effective communication, problem-solving, and client relationship management.
+        Advanced certification in English language proficiency with focus on technical and professional communication.
 
 recommendations:
   title: Recommendations
   list:
-    - person: Salvador De Jesús Amaya
-      role: Professional Reference
+    - person: Israel Rene Insfrán
+      role: Area Manager, Banco GNB
       recommendation: |
-        Ingrid is an exceptionally organized and reliable administrative professional. During our time working together, she consistently demonstrated strong attention to detail and an ability to manage multiple tasks efficiently. Her communication skills and positive attitude make her a valuable asset to any administrative team.
-        Available upon request. Contact: +595 986 911 223
+        Camila demonstrated exceptional technical skills and problem-solving abilities during her time at Banco GNB. Her attention to detail and commitment to resolving complex issues made her an invaluable member of our IT support team. Her knowledge of banking systems and ability to communicate effectively with users at all levels was particularly impressive.
+        Available upon request. Contact: +595 984 329 435
 
-    - person: Abigail Insfrán
-      role: Professional Reference
+    - person: Prof. Ing. Joni Fernández Caje
+      role: Professor, Facultad Politécnica UNA
       recommendation: |
-        I had the pleasure of supervising Ingrid during her time at BERDEA S.A. She quickly became an essential part of our administrative team, showing initiative and a strong work ethic. Her ability to maintain accurate records and support cross-functional teams was impressive. I highly recommend Ingrid for any administrative or back-office position.
-        Available upon request. Contact: +595 983 422 020
-
-    - person: Priscila Villasanti
-      role: Professional Reference
-      recommendation: |
-        Ingrid's contributions to our collections department were significant. She implemented systematic approaches that improved our collection rates and maintained excellent client relationships even in challenging situations. Her organizational skills and attention to detail were outstanding.
-        Available upon request. Contact: +595 994 950 956
-
-    - person: Dora Liz González
-      role: Personal Reference
-      recommendation: |
-        I've known Ingrid for many years and can attest to her strong character, reliability, and dedication. She approaches all responsibilities with professionalism and integrity. Her commitment to continuous improvement and learning makes her an excellent candidate for any position requiring trust and dependability.
-        Available upon request. Contact: +595 961 931 472
-
-    - person: Dra. Andrea Báez
-      role: Personal Reference
-      recommendation: |
-        Ingrid demonstrates exceptional interpersonal skills and a strong work ethic in everything she does. Her ability to communicate effectively and build positive relationships would be an asset to any organization. I confidently recommend her for positions requiring administrative expertise and professional conduct.
-        Available upon request. Contact: +595 975 808 910
-
-    - person: Ing. Pedro Cardozo
-      role: Personal Reference
-      recommendation: |
-        As someone who has observed Ingrid's academic and professional development, I can confidently say she possesses the technical knowledge and personal qualities needed to excel in administrative and commercial roles. Her analytical thinking and problem-solving abilities complement her strong organizational skills.
-        Available upon request. Contact: +595 981 506 797
+        As Camila's professor, I've been consistently impressed by her analytical thinking and dedication to her studies in Informatics Engineering. She demonstrates a strong grasp of technical concepts and applies them effectively in practical scenarios. Her leadership as Student Representative also showcases her commitment to the academic community.
+        Available upon request. Contact: +595 982 846 288
 
 footer: >
-  Designed with ❤️ by Ingrid Galli Garcete – Curriculum YAML format generated by Ivan Weiss
+  Designed with ❤️ by Camila Alexandra Maidana Enciso

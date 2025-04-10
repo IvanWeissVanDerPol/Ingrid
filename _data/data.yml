@@ -1,0 +1,210 @@
+sidebar:
+  position: right # position of the sidebar : left or right
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: False # set to False if you want education in main section instead of in sidebar
+
+  # Profile information
+  name: Camila Alexandra Maidana Enciso
+  tagline: Analista de Soporte Funcional de Aplicaciones | Estudiante de Ingeniería en Informática
+  avatar: # (Add if profile photo available)
+
+  # Sidebar links
+  email: camimai1.cm@gmail.com
+  phone: '+595 0982 510 082'
+  timezone: America/Asuncion
+  citizenship: Paraguayan
+  website: 
+  linkedin: 
+  github: 
+  telegram:
+  twitter:
+  gitlab:
+  bitbucket:
+  stack-overflow: 
+  codewars:
+  goodreads: 
+  mastodon: 
+  hackerrank: 
+  leetcode: 
+  pdf: 
+
+  languages:
+    title: Languages
+    info:
+      - idiom: Español
+        level: Lengua materna
+      - idiom: Inglés
+        level: Avanzado
+      - idiom: Guaraní
+        level: Segunda lengua
+      - idiom: Portugués
+        level: Básico
+      - idiom: Italiano
+        level: Básico
+
+interests:
+  title: Habilidades
+  info:
+    - item: Compromiso
+      link:
+    - item: Comunicación efectiva
+      link:
+    - item: Adaptabilidad
+      link:
+    - item: Proactividad
+      link:
+    - item: Trabajo en equipo
+      link:
+    - item: Liderazgo
+      link:
+
+career-profile:
+  title: Career Profile
+  summary: |
+    Analista de soporte funcional de aplicaciones con experiencia en entornos bancarios. Conocimientos sólidos en SQL, desarrollo de software y atención al cliente. Estudiante de Ingeniería en Informática en la Universidad Nacional de Asunción con experiencia como Representante Estudiantil ante el Consejo Directivo.
+    
+    Especializada en soporte operativo, gestión de incidencias y elaboración de reportes de datos.
+
+education:
+  title: Formación Académica
+  info:
+    - degree: Ingeniería en Informática (En curso)
+      university: Universidad Nacional de Asunción - Facultad Politécnica
+      time: 2019 - Actualidad
+      details: |
+        - Representante Estudiantil ante el Consejo Directivo (2021 - 2023)
+        - Desarrollo de proyectos académicos en diversas tecnologías
+        - Participación activa en actividades universitarias
+
+    - degree: Licenciatura en Ciencias Informáticas (En curso)
+      university: Universidad Nacional de Asunción - Facultad Politécnica
+      time: 2020 - Actualidad
+      details: |
+        - Formación complementaria en ciencias informáticas
+        - Enfoque en fundamentos teóricos y prácticos de la informática
+
+    - degree: Técnico Superior en Idioma Inglés
+      university: Instituto Superior de Idiomas - Ministerio Nacional de Defensa
+      time: 2022 - 2023
+      details: |
+        - Certificación oficial en idioma inglés
+        - Desarrollo de habilidades avanzadas de comunicación en inglés
+
+    - degree: Bachiller Técnico en Informática
+      university: Colegio Privado Cristiano Natanael
+      time: 2004 - 2017
+      details: |
+        - Formación técnica en informática
+        - Fundamentos de programación y sistemas informáticos
+
+experiences:
+  title: Experiencia Laboral
+  info:
+    - role: Analista de soporte funcional de Aplicaciones
+      time: Abril 2024 - Actualidad
+      company: ITTI - UENO BANK
+      details: |
+        - Reportes de datos desde PL/SQL según solicitud
+        - Soporte operativo de ITGF - Bankitti
+        - Corrección de datos en PL/SQL
+        - Reporte y gestión de incidencias en la plataforma Jira
+        - Resolución de problemas presentados en las aplicaciones
+        - Elaboración de documentación de procesos y procedimientos
+      tags: ["PL/SQL", "Soporte Técnico", "Jira", "Documentación", "Resolución de problemas"]
+      icon: "database"
+
+    - role: Analista de soporte TI
+      time: Junio 2022 - Febrero 2023
+      company: EXPERIS - BANCO GNB PARAGUAY
+      details: |
+        - Reportes de datos desde PL/SQL según solicitud
+        - Atención a usuarios del banco
+        - Soporte operativo de ITGF
+        - Soporte operativo de CRM
+        - Reporte y gestión de incidencias en la plataforma Jira
+        - Conocimiento sólido en el manejo de cuentas bancarias, tarjetas y otros productos bancarios
+        - Desarrollo de contingentes
+      tags: ["PL/SQL", "Soporte Técnico", "CRM", "Jira", "Productos Bancarios"]
+      icon: "laptop-code"
+
+    - role: Analista de soporte TI
+      time: Noviembre 2021 - Junio 2022
+      company: ITCS S.A. - BANCO GNB EN PROCESO DE FUSIÓN
+      details: |
+        - Reporte de incidencias en la plataforma Jira
+        - Reportes de datos desde PL/SQL según solicitud
+        - Atención a usuarios del banco
+        - Soporte operativo de ITGF
+        - Soporte operativo de CRM
+      tags: ["PL/SQL", "Soporte Técnico", "CRM", "Jira", "Atención al usuario"]
+      icon: "laptop-code"
+
+    - role: Representante de Atención al Cliente
+      time: Mayo 2020 - Julio 2020
+      company: CONNECTING S.A. - BANCO BASA S.A.
+      details: |
+        - Atención personalizada a clientes de importante entidad bancaria
+        - Resolución de problemas acorde a la solicitud del cliente
+        - Conocimiento sólido en el manejo de cuentas bancarias, tarjetas y otros productos bancarios
+      tags: ["Atención al Cliente", "Resolución de problemas", "Productos Bancarios"]
+      icon: "headset"
+
+skills:
+  title: Conocimientos & Proficiency
+
+  toolset:
+    - name: Lenguajes de Programación
+      level: 80%
+      tags:
+        - SQL
+        - C
+        - C#
+        - Java
+        - Python
+        - JavaScript
+
+    - name: Desarrollo Web
+      level: 75%
+      tags:
+        - HTML/CSS
+        - Angular
+        - NodeJS
+
+    - name: Herramientas de Desarrollo
+      level: 85%
+      tags:
+        - PL/SQL Developer
+        - Oracle Forms Developer
+
+    - name: Gestión de Proyectos
+      level: 70%
+      tags:
+        - Jira
+        - Documentación
+        - Procesos y procedimientos
+
+certifications:
+  title: Certifications
+  list:
+    - name: Técnico Superior en Idioma Inglés
+      start: 2022
+      end: 2023
+      organization: Instituto Superior de Idiomas - Ministerio Nacional de Defensa
+      details: |
+        Certificación oficial en idioma inglés con enfoque en comunicación técnica y profesional.
+
+recommendations:
+  title: Referencias
+  list:
+    - person: Israel Rene Insfrán
+      role: Responsable de área, Banco GNB
+      recommendation: |
+        Disponible para contacto al 0984 329 435
+
+    - person: Prof. Ing. Joni Fernández Caje
+      role: Profesor de la Facultad Politécnica UNA
+      recommendation: |
+        Disponible para contacto al 0982 846 288
+
+footer: >
+  Diseñado con ❤️ por Camila Alexandra Maidana Enciso - Tte. Oscar Bottana 895, Barrio San Pablo, Asunción
